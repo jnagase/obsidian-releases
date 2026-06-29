@@ -36398,5 +36398,12 @@
     "author": "yaye.work",
     "description": "If you are frustrated with making tables in your notes, install this. Summoned the interactive table via the ```Table``` block. Just drag to resize and reorder, hover to insert, click to edit. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/obsidian-better-tables"
+  },
+  {
+    "id": "momentum",
+    "name": "Momentum",
+    "author": "Jaime Nagase",
+    "description": "All-in-one life dashboard for habits, tasks, fitness, nutrition and studies, stored as plain Markdown notes in your vault.",
+    "repo": "jnagase/obsidian-momentum"
   }
 ]
